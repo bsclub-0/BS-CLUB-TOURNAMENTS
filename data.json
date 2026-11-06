@@ -4,20 +4,7 @@
  "start": "2026-11-07T13:00",
  "ciTime": "2026-11-06T12:45",
  "ciOpen": true,
- "players": [
-  {
-   "id": 4,
-   "n": "Alax",
-   "t": "#R2UGGPCVL",
-   "c": false
-  },
-  {
-   "id": 5,
-   "n": "Zero",
-   "t": "#GCR08YVCG",
-   "c": false
-  }
- ],
+ "players": [],
  "rounds": null,
- "nid": 6
+ "nid": 4
 }
