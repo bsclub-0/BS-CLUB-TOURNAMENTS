@@ -9,13 +9,13 @@
    "id": 7,
    "n": "Alax",
    "t": "#jwuwu717",
-   "c": false
+   "c": true
   },
   {
    "id": 8,
    "n": "Zero",
    "t": "#jejendieb",
-   "c": false
+   "c": true
   }
  ],
  "rounds": null,
@@ -23,6 +23,7 @@
  "seen": [
   "-P5ogy65wD4MBf-_JjK2",
   "-P5oh41X-M3J2smndPw1",
-  "-P5oh8Lxp_W7or1rfu0C"
+  "-P5oh8Lxp_W7or1rfu0C",
+  "-P5ohOHkFOUqJtKROjc9"
  ]
 }
