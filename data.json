@@ -4,32 +4,7 @@
  "start": "2026-11-07T13:00",
  "ciTime": "2026-11-06T12:45",
  "ciOpen": true,
- "players": [
-  {
-   "id": 7,
-   "n": "Alax",
-   "t": "#jwuwu717",
-   "c": true
-  },
-  {
-   "id": 8,
-   "n": "Zero",
-   "t": "#jejendieb",
-   "c": true
-  },
-  {
-   "id": 9,
-   "n": "Zero",
-   "t": "#hdjdjd",
-   "c": false
-  },
-  {
-   "id": 10,
-   "n": "Alax",
-   "t": "#shjdjdkd",
-   "c": false
-  }
- ],
+ "players": [],
  "rounds": null,
  "nid": 11,
  "seen": [
