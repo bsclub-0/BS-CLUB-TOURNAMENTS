@@ -3,11 +3,26 @@
  "prize": "Brawl Pass",
  "start": "2026-11-07T13:00",
  "ciTime": "2026-11-06T12:45",
- "ciOpen": false,
- "players": [],
+ "ciOpen": true,
+ "players": [
+  {
+   "id": 7,
+   "n": "Alax",
+   "t": "#jwuwu717",
+   "c": false
+  },
+  {
+   "id": 8,
+   "n": "Zero",
+   "t": "#jejendieb",
+   "c": false
+  }
+ ],
  "rounds": null,
- "nid": 7,
+ "nid": 9,
  "seen": [
-  "-P5ogy65wD4MBf-_JjK2"
+  "-P5ogy65wD4MBf-_JjK2",
+  "-P5oh41X-M3J2smndPw1",
+  "-P5oh8Lxp_W7or1rfu0C"
  ]
 }
