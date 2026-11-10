@@ -4,8 +4,11 @@
  "start": "2026-11-07T13:00",
  "ciTime": "2026-11-06T12:45",
  "ciOpen": false,
+ "mode": "t",
  "players": [],
+ "teams": [],
  "rounds": null,
+ "trounds": null,
  "nid": 11,
  "seen": [
   "-P5ogy65wD4MBf-_JjK2",
